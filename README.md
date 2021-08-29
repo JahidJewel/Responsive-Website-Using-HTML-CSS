@@ -1,2 +1,1 @@
-# HTML-CSS
-Responsive websites
+A responsive blogger website where travellers can get information about various places, traditional foods, read others feedback and share their experience as well. It was developed with the help of Javascript, jQuery, HTML and CSS.
